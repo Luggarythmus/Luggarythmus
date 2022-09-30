@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am studying at the University of Applied Science in Mittweide, Germany.<br><br>I like programming in Java, also that's the programming Language where I have the most knowledge about.
+I am studying at the University of Applied Science in Mittweida, Germany.<br><br>I like programming in Java, also that's the programming Language where I have the most knowledge about.
 
 
 ## 🌐 Socials:
@@ -15,8 +15,4 @@ I am studying at the University of Applied Science in Mittweide, Germany.<br><br
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Luggarythmus&icon=5&color=4)](https://visitcount.itsvg.in)
